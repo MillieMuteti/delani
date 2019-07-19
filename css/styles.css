@@ -1,0 +1,99 @@
+
+
+.first{
+	
+	font-weight: bold;
+    text-align: center;
+    background:transparent;
+    color: white;
+    font-size: small;
+    
+    
+}
+.section-1{
+    background: url(assets/backgrounds/h_img.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+.section-2{
+    background: whitesmoke;
+    height: 50vh;
+}
+.second{
+    color: black;
+    text-align: center;
+    background: transparent;
+    font-size:1em; 
+}
+.section-3{
+    height: 50vh;
+    background: url(assets/backgrounds/s_image.jpg);
+    background-size: cover;
+}
+.third{
+    text-align: center;
+    background: transparent;
+    color: white;
+    font-size: 1em;
+}
+    .fourth{
+        text-align: center;
+        color: black;
+        
+    }
+    .section-4{
+        background: whitesmoke;
+        height:50vh;
+    }
+    
+    .section-5{
+        height: 100vh;
+        text-align: center;
+        padding: 0px 140px;
+        height: 60vh;
+    }
+
+ body{
+	margin: 0;
+	padding: 0;
+	height: auto;
+    background-color:white; 
+}
+.fifth{
+	
+	font-weight: bold;
+    text-align: center;
+    background:transparent;
+    color: white;
+    font-size: small;
+    
+    
+}
+.form{
+ display: inline;
+}
+.textarea{
+    margin: 0 auto;
+    width: 35%;
+}
+
+
+.section-6{
+    background: url(assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    height: 50vh;
+    text-align: center;
+    color: white;
+}
+.section-7{
+    text-align: center;
+}
+.product-description{
+    display: none;
+}
+.design-description{
+    display: none;
+}
+.dev-description{
+    display: none;
+}
