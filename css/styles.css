@@ -97,3 +97,10 @@
 .dev-description{
     display: none;
 }
+#empty{
+    position: absolute;
+    top: 45%;
+    right: 35%;
+    color: white;
+    display: none;
+}

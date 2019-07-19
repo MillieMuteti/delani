@@ -11,4 +11,10 @@ $(document).ready(function(){
         $(".dev-description").fadeToggle();
         $(".dev").fadeToggle();
     });
+    $("#project").hover(function(){
+        $("#empty").slideDown("slow");
+        $("#project").mouseout(function(){
+            $("#empty").slideUp("slow");
+        });
+    });
 });
