@@ -17,4 +17,10 @@ $(document).ready(function(){
             $("#empty").slideUp("slow");
         });
     });
+    $("#project1").hover(function(){
+        $("#pic1").slideDown("slow");
+        $("#project2").mouseout(function(){
+            $("#pic1").slideUp("slow");
+        });
+    });
 });
