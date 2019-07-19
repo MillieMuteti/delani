@@ -7,16 +7,16 @@ Delani website gives information about the Delani studio their contacts and info
 * A browser
 * A text editor
 * You clone files into your local repository
-* Input the required details in the form provided and the web-application will determine your Akan name
-
+* Make changes to the website by using a text editor o
+f your choice
 ## Known Bugs
-The application sometimes give the wrong names and wrong day of births.
+Java script has some errors
 ## Technologies Used
-JavaScript,HTML,CSS
+JavaScript,HTML,CSS,j-query
 ## Support and contact details
 Email address:milliemuteti@gmail.com
 ## live link
-*  https://milliemuteti.github.io/web-app
+*  https://milliemuteti.github.io/delani_studio_site
  
 ### License
 *MIT License
