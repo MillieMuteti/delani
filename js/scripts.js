@@ -17,12 +17,19 @@ $(document).ready(function(){
             $("#empty").slideUp("slow");
         });
     });
+    // $("#pic1, #project2").hover(function(){
+    //     $("#pic1").slideDown("slow");
+    //     $("#project2").mouseout(function(){
+    //         $("pic1").slideUp("slow");
+    //     });
+    // });
+
     $("#pic1, #project2").hover(function(){
         $("#pic1").slideDown("slow");
         $("#project2").mouseout(function(){
-            $("pic1").slideUp("slow");
+            $("#pic1").slideUp("slow");
+        }); 
         });
-    });
     
     $("#pic2, #project3").hover(function(){
         $("#pic2").slideDown("slow");
@@ -59,7 +66,8 @@ $(document).ready(function(){
             $("#pic7").slideUp("slow");
         });
         });
-        $("#myform").submit(function(e){
+        
+        $("#myform").click(function(e){
             e.preventDefault();
             var name = $("#name").val();
             var email = $("#email").val();
