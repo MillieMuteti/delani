@@ -59,4 +59,11 @@ $(document).ready(function(){
             $("#pic7").slideUp("slow");
         });
         });
+        $("#myform").submit(function(e){
+            e.preventDefault();
+            var name = $("#name").val();
+            var email = $("#email").val();
+            var message = $("#message").val();
+            alert (name +" we have received your message. Thank you for reaching out to us.");
+        })
         });
