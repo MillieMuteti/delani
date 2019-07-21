@@ -16,7 +16,7 @@ JavaScript,HTML,CSS,j-query
 ## Support and contact details
 Email address:milliemuteti@gmail.com
 ## live link
-*  https://milliemuteti.github.io/delani_studio_site
+*  https://milliemuteti.github.io/delani
  
 ### License
 *MIT License

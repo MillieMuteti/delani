@@ -23,7 +23,7 @@ $(document).ready(function(){
             $("pic1").slideUp("slow");
         });
     });
-    });
+    
     $("#pic2, #project3").hover(function(){
         $("#pic2").slideDown("slow");
         $("#project3").mouseout(function(){
@@ -57,5 +57,6 @@ $(document).ready(function(){
         $("#pic7").slideDown("slow");
         $("#project8").mouseout(function(){
             $("#pic7").slideUp("slow");
+        });
         });
         });
