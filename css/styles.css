@@ -48,10 +48,10 @@
     }
     
     .section-5{
-        height: 100vh;
+        height: 1OOvh;
         text-align: center;
         padding: 0px 140px;
-        height: 60vh;
+        
     }
 
  body{
@@ -77,9 +77,8 @@
     margin: 0 auto;
     width: 35%;
 }
-.contact{
-    text-align: center;
-}
+
+
 
 
 .section-6{
